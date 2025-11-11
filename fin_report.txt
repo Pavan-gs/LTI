@@ -1,0 +1,29 @@
+Quarterly Financial Report – Q3 FY2025
+--------------------------------------
+
+Executive Summary:
+During Q3 FY2025, the company recorded a 12% year-on-year increase in revenue driven by stronger investment banking fees and robust trading performance in the derivatives segment. However, expenses rose by 8% due to technology modernization and regulatory compliance initiatives.
+
+Business Highlights:
+- Equity trading volumes increased by 15%.
+- Debt underwriting revenue rose 9%, led by corporate issuances in energy and healthcare.
+- Wealth management continued steady growth, with AUM up 7%.
+
+Risk & Compliance:
+The major risks identified this quarter include:
+1. Market Volatility: The derivatives desk remains exposed to fluctuations in global interest rates and commodity prices.
+2. Credit Risk: Slight increase in counterparty risk exposure in the corporate lending portfolio.
+3. Operational Risk: System migration to cloud infrastructure caused intermittent downtime in two regional data centers.
+4. Regulatory Risk: Additional compliance reviews initiated by the Monetary Authority for anti-money laundering (AML) practices.
+
+Financial Performance:
+- Total revenue: $6.8 billion
+- Net profit: $1.2 billion
+- Cost-to-income ratio: 63%
+- CET1 Capital Ratio: 14.1%
+
+Outlook:
+Management expects continued momentum in investment banking with moderate risk appetite. Focus areas include expansion of AI-driven trading analytics and enhanced data governance.
+
+Conclusion:
+While profitability remains strong, the firm must continue to invest in cybersecurity and risk management to maintain resilience under volatile market conditions.
