@@ -1,0 +1,102 @@
+Pandas
+======
+EDA
+Data cleaning
+Data manipulation
+Analysis
+Visualisation
+
+Supervised ML --> Predictive models y<-X
+Regression, classification
+Linear, Non linear & Ensemble
+Overfitting --> Regularisation,Hyper parameter tuning
+Outliers
+Categorical variables
+Loss functions
+
+Data preparation
+================
+Sampling (CV), Data normalisation, Dimentionality reduction,
+Feature selection, Class imbalancing
+Evaluation of models
+
+Unsupervised ML
+===============
+Clustering --> k means, dbscan, k-medoids, hierarchical
+Elbow, Silhoutte score
+Dendrogram
+
+Deep neural network
+===================
+Activation fns --> sigmoid, Relu(variants)
+Weights, Bias
+Optimizers --> Mini batch gradient descent(ADAM, RMSPROP)
+Loss/cost fns --> MSE, BINARY CROSS ENTROPY, CATEGORICAL CROSS 
+ENTROPY
+Backprogation --> Partial derivatives(chain rule of diffrn)
+learning rate
+
+MLP/ANN
+=======
+Keras --> Sequential, Dense, Keras classifier
+Torch --> nn.module, autograd, zerograd, backword,step, nograd,evaluate
+
+CNN
+===
+Feature detector/kernel/filter --> alternative of weights
+Pooling --> max, avg, sum
+Flattening
+Conv2d, conv3d
+Grayscale --> 28*28*1
+color images --> 32*32*3 --> each channels 0 to 255 bytes
+Padding
+
+Explore --> Opencv, Object detection(yolo darknet)
+
+Optimization
+============
+Dropout
+Batch normalisation
+Learning rate Schedulers --> step,exponential,plateu,cyclic,cosine 
+Optuna --> hyper parameter tuning
+Early stopping
+Ipex
+
+NLP
+===
+Tokenisation --> Count vectoriser (BOW), tf/idf
+Stemming, lemma, POS, NER, data cleaning
+
+Static word embedding --> Word2vec, Glove(pre-trained model),
+Fast-text(sub word tokens) --> Gensim
+LDA --> topic modeling
+RNN/LSTM --> sequential feed forward networks (xt-1),
+Gates
+
+Transformers
+============
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
