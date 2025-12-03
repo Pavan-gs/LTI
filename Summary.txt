@@ -75,6 +75,102 @@ Gates
 
 Transformers
 ============
+static word embedding
+positional embedding
+Self attention mechanism --> k,q,v
+
+Encoders --> Understanding, classification --> BERT
+Decoders --> Generation --> GPT
+
+Huggingface transformers --> auto tokenizers, causal llm's,
+gpt2
+huggingface spaces --> host your model
+
+Finetuning 
+==========
+Full finetuning --> computation (all weights are updated)
+PEFT --> LORA --> Provide a rank to update a substate
+Quantization --> full/half precision, fp16,fp8,int4
+Qlora --> quantize and freeze original weights to nf4
+and then applying lora
+Knowledge distillation --> Teacher-student model
+Use the teacher model's reasoning(using a COT) in order to build a 
+student model
+
+Prompt engineering
+==================
+Zero/one/few shot,COT, self-consistancy prompts
+
+Using LLM's for generation/summarisation etc
+============================================
+OpenAI, Deepseek, Claude, Grok, Mistral, Llaama, Gemini etc
+
+Ollama --> llama, mistral, falcon etc
+Evaluation --> Rouge, Bleu
+RAG --> Retriever (Vector stores), Augmentation(feeding the retrieved data into llm), 
+Generation (llm), memory 
+
+Langchain
+=========
+Pydantic --> Input and output structure/validation
+Prompt templates 
+Memory
+Tools
+Chains 
+Runnables
+Agents
+
+RAGS --> Symantic, Multi query retriever, contextual compression,
+Ensemble/keyword based (bm25), evalrag
+Knowledge graph
+
+Langsmith --> monitoring and observation
+Langserve --> Inferencing
+
+
+Agentic AI --> Langgraph --> Graphs & Edges 
+Autogen (Agent colloboration)--> A2A
+
+Model Context Protocol
+======================
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
